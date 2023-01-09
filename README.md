@@ -160,7 +160,7 @@ Cleanup (`Close or Deconstruct`) function.
 ***
 
 # **Benchmark**
-Benchmark will run the followin Hash algorithms:
+Benchmark will run the following Hash algorithms:
 
  ### **Hash algorithms:**
 * Quicksand_1024.
