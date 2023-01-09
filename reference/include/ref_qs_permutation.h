@@ -4,7 +4,7 @@
 #include <stdint.h>
 #include <immintrin.h>
 
-#define REF_QS_PERM_ROUNDS      16
+#define REF_QS_PERM_ROUNDS      12
 #define REF_QS_STATE_SIZE       576 // equivelant to 4608 bits
 #define REF_QS_CAPACITY_SIZE    256 // equivelant to 2048 bits
 #define REF_QS_BITRATE_SIZE     320 // equivelant to 2560 bits
