@@ -160,9 +160,9 @@ Cleanup (`Close or Deconstruct`) function.
 ***
 
 # **Benchmark**
-Benchmark will run the followin ciphers:
+Benchmark will run the followin Hash algorithms:
 
- ### **Ciphers:**
+ ### **Hash algorithms:**
 * Quicksand_1024.
 * Sha3_256.
 * Sha3_512.
@@ -179,7 +179,7 @@ Benchmark will run the followin ciphers:
 * Blake_512.
 
 
- ### **Tested sizes for each cipher:**
+ ### **Tested sizes for each Hash algorithms:**
 * 1 KB, 4 KB, 8 KB, 16 KB, 1 MB, 4 MB, 8 MB, 16 MB, 1 GB
 
 
@@ -198,10 +198,6 @@ Then run:
 ```bash
 ./benchmark
 ```
-
-***
-
-***
 
 
 
