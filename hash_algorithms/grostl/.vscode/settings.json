@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__hash_table": "c",
+        "functional": "c",
+        "unordered_map": "c",
+        "memory": "c",
+        "string_view": "c",
+        "optional": "c"
+    }
+}
